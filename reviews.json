@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "673b10010000000000000001",
+        "id": 101,
+        "name": "Sarah Jenkins",
+        "role": "Product Lead",
+        "rating": 5,
+        "comment": "We integrated this full-stack MEVN setup into our platform overhaul and user engagement jumped by 40% in the first week. The clean glassmorphic aesthetic speaks volumes.",
+        "likes": 14,
+        "verified": true,
+        "avatar": "images/avatar1.png",
+        "date": "2026-11-15"
+    },
+    {
+        "_id": "673b10010000000000000002",
+        "id": 102,
+        "name": "Alex Rivers",
+        "role": "UI Developer",
+        "rating": 5,
+        "comment": "Clean, lightning-fast Vue 3 and Express REST API setup. Absolutely love the subtle Digital Lavender glassmorphism execution here!",
+        "likes": 9,
+        "verified": true,
+        "avatar": "images/avatar2.png",
+        "date": "2026-11-16"
+    },
+    {
+        "_id": "673b10010000000000000003",
+        "id": 103,
+        "name": "Elena Rostova",
+        "role": "Founder",
+        "rating": 4,
+        "comment": "The native MongoDB driver connection and live search watcher made browsing feedback entries effortless. Great responsive grid layout.",
+        "likes": 7,
+        "verified": true,
+        "avatar": "images/avatar3.png",
+        "date": "2026-11-17"
+    },
+    {
+        "_id": "673b10010000000000000004",
+        "id": 104,
+        "name": "Marcus Vance",
+        "role": "Software Engineer",
+        "rating": 5,
+        "comment": "Zero heavy frontend dependencies—just pure Vue 3 CDN, fetch Promises, and Express middleware working together smoothly.",
+        "likes": 19,
+        "verified": true,
+        "avatar": "images/avatar4.png",
+        "date": "2026-11-18"
+    },
+    {
+        "_id": "673b10010000000000000005",
+        "id": 105,
+        "name": "Priya Nair",
+        "role": "UX Researcher",
+        "rating": 4,
+        "comment": "The dark slate background with soft lavender glow reduces eye strain while keeping the star ratings and badges easy to scan.",
+        "likes": 11,
+        "verified": false,
+        "avatar": "images/avatar5.png",
+        "date": "2026-11-18"
+    },
+    {
+        "_id": "673b10010000000000000006",
+        "id": 106,
+        "name": "David Kim",
+        "role": "Full Stack Student",
+        "rating": 3,
+        "comment": "Really helpful starter project for understanding how GET, POST, and PUT routes communicate between Vue and Express.",
+        "likes": 5,
+        "verified": false,
+        "avatar": "images/avatar6.png",
+        "date": "2026-11-19"
+    }
+]
